@@ -1,0 +1,6 @@
+@BuilderPattern.Sample_HostAddress = http://localhost:5010
+
+GET {{BuilderPattern.Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
